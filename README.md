@@ -103,7 +103,7 @@ Guia de emergência veterinária baseado nas diretrizes RECOVER 2024
 Busca de CNAE × Lista de Serviços da LC 116/2003
 </p>
 <p align="center">
-<a href="https://github.com/BernardoEllwanger/consulta-cnae">Repo</a>
+<a href="https://consulta-cnae.vercel.app/">Live Demo</a> · <a href="https://github.com/BernardoEllwanger/consulta-cnae">Repo</a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -117,7 +117,7 @@ Busca de CNAE × Lista de Serviços da LC 116/2003
 Calculadora de retenção de IRRF e ISSQN para autônomos (RPA)
 </p>
 <p align="center">
-<a href="https://github.com/BernardoEllwanger/calculadora-retencoes">Repo</a>
+<a href="https://calculadora-retencoes.vercel.app/">Live Demo</a> · <a href="https://github.com/BernardoEllwanger/calculadora-retencoes">Repo</a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
