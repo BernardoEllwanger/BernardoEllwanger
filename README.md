@@ -102,7 +102,7 @@ class BernardoEllwanger:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=BernardoEllwanger&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
+<img src="https://github-profile-trophy-gamma.vercel.app/?username=BernardoEllwanger&theme=tokyonight&no-frame=true&no-bg=true"/>
 
 </div>
 
