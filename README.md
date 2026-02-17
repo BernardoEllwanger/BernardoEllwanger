@@ -108,8 +108,7 @@ src="https://streak-stats.demolab.com?user=BernardoEllwanger&theme=tokyonight&hi
 
 <div align="center">
 
-<img
-src="https://github-profile-trophy-three-gamma.vercel.app/?username=BernardoEllwanger&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy-gamma.vercel.app/?username=BernardoEllwanger&theme=tokyonight&no-frame=true&no-bg=true"/>
 
 </div>
 
