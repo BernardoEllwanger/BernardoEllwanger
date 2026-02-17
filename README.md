@@ -63,7 +63,7 @@ class BernardoEllwanger:
 
 ---
 
-### 📊 GitHub Stats (Public + Private)
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -104,7 +104,7 @@ src="https://streak-stats.demolab.com?user=BernardoEllwanger&theme=tokyonight&hi
 
 ---
 
-### 🏆 GitHub Trophies (Public + Private)
+### 🏆 GitHub Trophies
 
 <div align="center">
 
