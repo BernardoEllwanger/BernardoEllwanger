@@ -53,6 +53,9 @@ class BernardoEllwanger:
 
 #### 🛠️ Tools & Frameworks
 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
@@ -60,6 +63,43 @@ class BernardoEllwanger:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 </div>
+
+---
+
+### 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">VulnScanner</h3>
+<p align="center">
+Scanner de vulnerabilidades web com dashboard interativo
+</p>
+<p align="center">
+<a href="https://vulnscanner-brown.vercel.app">Live Demo</a> · <a href="https://github.com/BernardoEllwanger/vulnscanner">Repo</a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">Protocolos Veterinários</h3>
+<p align="center">
+Guia de emergência veterinária baseado nas diretrizes RECOVER 2024
+</p>
+<p align="center">
+<a href="https://protocolos-emergencia-veterinaria.vercel.app">Live Demo</a> · <a href="https://github.com/BernardoEllwanger/protocolos-emergencia-veterinaria">Repo</a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38bdf8?style=flat&logo=tailwindcss&logoColor=white"/>
+</p>
+</td>
+</tr>
+</table>
 
 ---
 
