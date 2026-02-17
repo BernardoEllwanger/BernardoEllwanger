@@ -68,10 +68,10 @@ class BernardoEllwanger:
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=BernardoEllwanger&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+src="https://github-readme-stats-sand-sigma-76.vercel.app/api?username=BernardoEllwanger&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoEllwanger&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
+src="https://github-readme-stats-sand-sigma-76.vercel.app/api/top-langs/?username=BernardoEllwanger&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
 
 </div>
 
@@ -109,7 +109,7 @@ src="https://streak-stats.demolab.com?user=BernardoEllwanger&theme=tokyonight&hi
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=BernardoEllwanger&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+src="https://github-profile-trophy-three-gamma.vercel.app/?username=BernardoEllwanger&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
 
 </div>
 
