@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=6,11,20\&height=200\&section=header\&text=Bernardo%20Ellwanger\&fontSize=50\&fontColor=ffffff\&animation=twinkling\&fontAlignY=35\&desc=Data%20and%20AI%20Developer%20%7C%20Python%20%7C%20Cloud%20%7C%20Machine%20Learning\&descSize=16\&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bernardo%20Ellwanger&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20and%20AI%20Developer%20%7C%20Python%20%7C%20C%23%20%7C%20Node.js%20%7C%20Cloud%20%7C%20Machine%20Learning&descSize=16&descAlignY=55)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=6C63FF\&center=true\&vCenter=true\&width=600\&lines=Building+scalable+AI-driven+systems;Transforming+data+into+intelligence;Python+%7C+Cloud+%7C+Machine+Learning;Enterprise+AI+%40+Dimensa+\(TOTVS+Group\))](https://git.io/typing-svg)
 
@@ -125,7 +125,7 @@ class BernardoEllwanger:
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=BernardoEllwanger\&color=6C63FF\&style=for-the-badge\&label=VISITORS)
+![Visitors](https://komarev.com/ghpvc/?username=BernardoEllwanger\&color=6C63FF\&style=for-the-badge\&label=VIEWS)
 
 </div>
 
