@@ -64,15 +64,15 @@ class BernardoEllwanger:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoEllwanger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoEllwanger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoEllwanger&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoEllwanger&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BernardoEllwanger&theme=tokyonight&hide_border=true&background=0d1117"/>
+<img src="https://streak-stats.demolab.com?user=BernardoEllwanger&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -92,7 +92,7 @@ class BernardoEllwanger:
 
 <div align="center">
 
-[![Bernardo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BernardoEllwanger&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/BernardoEllwanger)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BernardoEllwanger&theme=tokyo-night&hide_border=true)](https://github.com/BernardoEllwanger)
 
 </div>
 
@@ -102,7 +102,7 @@ class BernardoEllwanger:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=BernardoEllwanger&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=BernardoEllwanger&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
 
 </div>
 
